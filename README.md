@@ -3,4 +3,4 @@ push mi puli x
 qx  tes
 est
 
-dodajem promene
+nista to nje valkjaklo
