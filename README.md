@@ -3,4 +3,4 @@ push mi puli x
 qx  tes
 est
 
-test za pull request
+nista to nje valkjaklo
